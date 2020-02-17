@@ -1,0 +1,11 @@
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.vbprojAssemblyReference.cache
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.Form1.resources
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.Resources.resources
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.vbproj.GenerateResource.cache
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\bin\Debug\CompleteScreenshot.exe.config
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\bin\Debug\CompleteScreenshot.exe
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\bin\Debug\CompleteScreenshot.pdb
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\bin\Debug\CompleteScreenshot.xml
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.exe
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.xml
+C:\Users\Martins\Desktop\Programming\VB.NET\CompleteScreenshot\CompleteScreenshot\obj\Debug\CompleteScreenshot.pdb
